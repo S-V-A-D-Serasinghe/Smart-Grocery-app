@@ -1,0 +1,32 @@
+.color{
+  background-color: rgb(125,81,226);
+}
+table {
+  border-color: inherit;
+}
+.thead-light {
+  background-color: rgb(231,231,231);
+  font-weight: 400;
+}
+.thead-light th {
+  font-weight: 500;
+}
+
+table tbody tr td {
+  cursor: pointer;
+}
+
+tr:hover{
+  background-color: #c8daf8;
+}
+.icon{
+  color:rgb(99,98,98);
+  margin: 5px;
+}
+.color{
+  background-color: rgb(135, 223, 135);
+}
+
+.bg-primary{
+  background-color: cornflowerblue !important;
+} 
